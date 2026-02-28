@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: e8183a38bfe1f074694f48586ed1cb2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4364777264018506118
+    second: Sans titre-3_0
+  - first:
+      213: 2105850551502553690
+    second: Sans titre-3_1
+  - first:
+      213: 8671025815802056770
+    second: Sans titre-3_2
+  - first:
+      213: 1250571928579601450
+    second: Sans titre-3_3
+  - first:
+      213: -1283886630615321961
+    second: Sans titre-3_4
+  - first:
+      213: -2049958365717256430
+    second: Sans titre-3_5
+  - first:
+      213: 3151628238656800583
+    second: Sans titre-3_6
+  - first:
+      213: -7569682231583532631
+    second: Sans titre-3_7
+  - first:
+      213: -3469231085697089691
+    second: Sans titre-3_8
+  - first:
+      213: 4978549709142009284
+    second: Sans titre-3_9
+  - first:
+      213: -5469484670661202692
+    second: Sans titre-3_10
+  - first:
+      213: -3284711575292252178
+    second: Sans titre-3_11
+  - first:
+      213: 457080539787305490
+    second: Sans titre-3_12
+  - first:
+      213: -1028086896183607089
+    second: Sans titre-3_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sans titre-3_0
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1939
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6814689cbcdc29c30800000000000000
+      internalID: 4364777264018506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_1
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1968
+        width: 81
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ce585beb793d10800000000000000
+      internalID: 2105850551502553690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_2
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1838
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409f15d90ca55870800000000000000
+      internalID: 8671025815802056770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1148
+        width: 189
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24ff011b8cea5110800000000000000
+      internalID: 1250571928579601450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1517
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792fc4a69e7be2ee0800000000000000
+      internalID: -1283886630615321961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_5
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 529
+        width: 809
+        height: 1434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217251f3ab51d83e0800000000000000
+      internalID: -2049958365717256430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_6
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1210
+        width: 136
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7478a3d5f25dcbb20800000000000000
+      internalID: 3151628238656800583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1226
+        width: 22
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a990e3cd1613f690800000000000000
+      internalID: -7569682231583532631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_8
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1354
+        width: 20
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f384555b0dadfc0800000000000000
+      internalID: -3469231085697089691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_9
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 517
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a80e359c571540800000000000000
+      internalID: 4978549709142009284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_10
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 510
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6bccabac7814b0800000000000000
+      internalID: -5469484670661202692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_11
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 529
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6715b93c5a62d0800000000000000
+      internalID: -3284711575292252178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_12
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 518
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21224c74450e75600800000000000000
+      internalID: 457080539787305490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_13
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 521
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc00eba3a608bb1f0800000000000000
+      internalID: -1028086896183607089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sans titre-3_14
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 531
+        width: 864
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208338221bdc014418e1f44b9d78c845
+      internalID: -1486031601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d389383bfeebff459aea97cca8a2d39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sans titre-3_0: 4364777264018506118
+      Sans titre-3_1: 2105850551502553690
+      Sans titre-3_10: -5469484670661202692
+      Sans titre-3_11: -3284711575292252178
+      Sans titre-3_12: 457080539787305490
+      Sans titre-3_13: -1028086896183607089
+      Sans titre-3_14: -1486031601
+      Sans titre-3_2: 8671025815802056770
+      Sans titre-3_3: 1250571928579601450
+      Sans titre-3_4: -1283886630615321961
+      Sans titre-3_5: -2049958365717256430
+      Sans titre-3_6: 3151628238656800583
+      Sans titre-3_7: -7569682231583532631
+      Sans titre-3_8: -3469231085697089691
+      Sans titre-3_9: 4978549709142009284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

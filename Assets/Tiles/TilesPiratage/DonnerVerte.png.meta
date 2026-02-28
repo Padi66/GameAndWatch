@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: a29db561c4490cf4c96c6923a62b1d87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7333071353891472098
+    second: DonnerVerte_0
+  - first:
+      213: -3327875245243086884
+    second: DonnerVerte_1
+  - first:
+      213: 5328819066550715528
+    second: DonnerVerte_2
+  - first:
+      213: -1743861199578566415
+    second: DonnerVerte_3
+  - first:
+      213: 5186165178114060393
+    second: DonnerVerte_4
+  - first:
+      213: -6511979642498512970
+    second: DonnerVerte_5
+  - first:
+      213: 1807245231645672086
+    second: DonnerVerte_6
+  - first:
+      213: -4179599724899873626
+    second: DonnerVerte_7
+  - first:
+      213: -229775351912206757
+    second: DonnerVerte_8
+  - first:
+      213: -590325208021176760
+    second: DonnerVerte_9
+  - first:
+      213: 2373545383957095292
+    second: DonnerVerte_10
+  - first:
+      213: -7658759720851012341
+    second: DonnerVerte_11
+  - first:
+      213: -7197976151706351022
+    second: DonnerVerte_12
+  - first:
+      213: 3604508449687548217
+    second: DonnerVerte_13
+  - first:
+      213: -2063412230025662867
+    second: DonnerVerte_14
+  - first:
+      213: -3857924525461019330
+    second: DonnerVerte_15
+  - first:
+      213: 5787259402830171123
+    second: DonnerVerte_16
+  - first:
+      213: -8795371179212594059
+    second: DonnerVerte_17
+  - first:
+      213: 7751646219479878177
+    second: DonnerVerte_18
+  - first:
+      213: -6640032056749650625
+    second: DonnerVerte_19
+  - first:
+      213: -6759409506366586754
+    second: DonnerVerte_20
+  - first:
+      213: -206708796578708910
+    second: DonnerVerte_21
+  - first:
+      213: 8935437231532893402
+    second: DonnerVerte_22
+  - first:
+      213: 3072076435927211903
+    second: DonnerVerte_23
+  - first:
+      213: -2368714426083791367
+    second: DonnerVerte_24
+  - first:
+      213: 8160127466115549834
+    second: DonnerVerte_25
+  - first:
+      213: -1805250337364404388
+    second: DonnerVerte_26
+  - first:
+      213: -3675986273867055312
+    second: DonnerVerte_27
+  - first:
+      213: -4324301158637074565
+    second: DonnerVerte_28
+  - first:
+      213: 870049965582759939
+    second: DonnerVerte_29
+  - first:
+      213: -22891955577258843
+    second: DonnerVerte_30
+  - first:
+      213: -4202906157396583069
+    second: DonnerVerte_31
+  - first:
+      213: -1948358424622752129
+    second: DonnerVerte_32
+  - first:
+      213: 8271275440539046734
+    second: DonnerVerte_33
+  - first:
+      213: 3436780805566774435
+    second: DonnerVerte_34
+  - first:
+      213: 4124127268127434733
+    second: DonnerVerte_35
+  - first:
+      213: 5738431739068195502
+    second: DonnerVerte_36
+  - first:
+      213: 5399915875378781764
+    second: DonnerVerte_37
+  - first:
+      213: 7596326113045781265
+    second: DonnerVerte_38
+  - first:
+      213: 4747181726972928283
+    second: DonnerVerte_39
+  - first:
+      213: -4671048478643745363
+    second: DonnerVerte_40
+  - first:
+      213: -5110753871467186278
+    second: DonnerVerte_41
+  - first:
+      213: 3201831802524862787
+    second: DonnerVerte_42
+  - first:
+      213: 7875325143723323072
+    second: DonnerVerte_43
+  - first:
+      213: -6166656226946711988
+    second: DonnerVerte_44
+  - first:
+      213: -5328607487176915522
+    second: DonnerVerte_45
+  - first:
+      213: -7412793969168476468
+    second: DonnerVerte_46
+  - first:
+      213: 8730010897687392728
+    second: DonnerVerte_47
+  - first:
+      213: -5376440108344316652
+    second: DonnerVerte_48
+  - first:
+      213: 7090876645019405049
+    second: DonnerVerte_49
+  - first:
+      213: -4059084016580997517
+    second: DonnerVerte_50
+  - first:
+      213: 1324277051671565259
+    second: DonnerVerte_51
+  - first:
+      213: -511288016511002422
+    second: DonnerVerte_52
+  - first:
+      213: 1283912067016306189
+    second: DonnerVerte_53
+  - first:
+      213: 7684117888674576801
+    second: DonnerVerte_54
+  - first:
+      213: -5773363365669079979
+    second: DonnerVerte_55
+  - first:
+      213: 2640022238899399383
+    second: DonnerVerte_56
+  - first:
+      213: -5079531194190866237
+    second: DonnerVerte_57
+  - first:
+      213: 2819087382955315204
+    second: DonnerVerte_58
+  - first:
+      213: -3158052710569639957
+    second: DonnerVerte_59
+  - first:
+      213: -3884033392070474540
+    second: DonnerVerte_60
+  - first:
+      213: 6846143453358517190
+    second: DonnerVerte_61
+  - first:
+      213: -8185870294282678640
+    second: DonnerVerte_62
+  - first:
+      213: 7800315271091550111
+    second: DonnerVerte_63
+  - first:
+      213: 5359587473350651599
+    second: DonnerVerte_64
+  - first:
+      213: -242311716146231616
+    second: DonnerVerte_65
+  - first:
+      213: -758159812532096326
+    second: DonnerVerte_66
+  - first:
+      213: -3214441105231299706
+    second: DonnerVerte_67
+  - first:
+      213: 629924761512239557
+    second: DonnerVerte_68
+  - first:
+      213: -4476109253185384165
+    second: DonnerVerte_69
+  - first:
+      213: 794881970964560611
+    second: DonnerVerte_70
+  - first:
+      213: 7092070458658680067
+    second: DonnerVerte_71
+  - first:
+      213: -3640086933292097779
+    second: DonnerVerte_72
+  - first:
+      213: -947830502200667912
+    second: DonnerVerte_73
+  - first:
+      213: 7335326866648517501
+    second: DonnerVerte_74
+  - first:
+      213: 7425177731186513193
+    second: DonnerVerte_75
+  - first:
+      213: 5962769600311375609
+    second: DonnerVerte_76
+  - first:
+      213: 5938149738870369825
+    second: DonnerVerte_77
+  - first:
+      213: -2710982529297288100
+    second: DonnerVerte_78
+  - first:
+      213: 2708051711278486214
+    second: DonnerVerte_79
+  - first:
+      213: -5976984918174316193
+    second: DonnerVerte_80
+  - first:
+      213: -4612750320538545004
+    second: DonnerVerte_81
+  - first:
+      213: 2511167456530071307
+    second: DonnerVerte_82
+  - first:
+      213: 6817786809668585897
+    second: DonnerVerte_83
+  - first:
+      213: 3625299989151749538
+    second: DonnerVerte_84
+  - first:
+      213: -7121110088169910057
+    second: DonnerVerte_85
+  - first:
+      213: -6771630769444928395
+    second: DonnerVerte_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonnerVerte_0
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1774
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e24b494b8d44c560800000000000000
+      internalID: 7333071353891472098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_1
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1928
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd74876a81301d1d0800000000000000
+      internalID: -3327875245243086884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_2
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1623
+        width: 93
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884851e25b4c3f940800000000000000
+      internalID: 5328819066550715528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_3
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1786
+        width: 104
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f078857a7f8cc7e0800000000000000
+      internalID: -1743861199578566415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_4
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1985
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9603df380c5f8f740800000000000000
+      internalID: 5186165178114060393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1143
+        width: 195
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70d40640dc0a5a0800000000000000
+      internalID: -6511979642498512970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1964
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692424686ff941910800000000000000
+      internalID: 1807245231645672086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1971
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc506d1341ff5c0800000000000000
+      internalID: -4179599724899873626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_8
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1506
+        width: 146
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee12be88cafccf0800000000000000
+      internalID: -229775351912206757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1506
+        width: 192
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e60f9d95ebec7f0800000000000000
+      internalID: -590325208021176760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1957
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e70d73f680f020800000000000000
+      internalID: 2373545383957095292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_11
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 544
+        width: 141
+        height: 1426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050b9a9c9e96b590800000000000000
+      internalID: -7658759720851012341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_12
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1211
+        width: 179
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4fc793d6ab1c90800000000000000
+      internalID: -7197976151706351022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_13
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1951
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93135856659c50230800000000000000
+      internalID: 3604508449687548217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_14
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1951
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eaf1c52894d53e0800000000000000
+      internalID: -2063412230025662867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_15
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1696
+        width: 62
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35e0a19516e57ac0800000000000000
+      internalID: -3857924525461019330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_16
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1793
+        width: 13
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb4bb0c3c9705050800000000000000
+      internalID: 5787259402830171123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_17
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1875
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574235b238090f580800000000000000
+      internalID: -8795371179212594059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_18
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1793
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0998aa21639b60800000000000000
+      internalID: 7751646219479878177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_19
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1855
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0b38560ed9d3a0800000000000000
+      internalID: -6640032056749650625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_20
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1789
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e700f99edd0c132a0800000000000000
+      internalID: -6759409506366586754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_21
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1772
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2524af7d17f912df0800000000000000
+      internalID: -206708796578708910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_22
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1782
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46152f1dc010c70800000000000000
+      internalID: 8935437231532893402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_23
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1744
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1a4eed3532aa20800000000000000
+      internalID: 3072076435927211903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_24
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1341
+        width: 335
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdaeea87c2a02fd0800000000000000
+      internalID: -2368714426083791367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_25
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1739
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ac9bb32b89e3170800000000000000
+      internalID: 8160127466115549834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_26
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1597
+        width: 64
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579dbef16672f6e0800000000000000
+      internalID: -1805250337364404388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_27
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1745
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f31fac5f54cfcc0800000000000000
+      internalID: -3675986273867055312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_28
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1689
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7780a1e10ffcf3c0800000000000000
+      internalID: -4324301158637074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_29
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1317
+        width: 164
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308b66f75d9031c00800000000000000
+      internalID: 870049965582759939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_30
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1677
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac7a9f33ebaeaff0800000000000000
+      internalID: -22891955577258843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_31
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1637
+        width: 9
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d13182e174ca5c0800000000000000
+      internalID: -4202906157396583069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_32
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1601
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e983de55a06f4e0800000000000000
+      internalID: -1948358424622752129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_33
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1598
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e431eb8a03979c270800000000000000
+      internalID: 8271275440539046734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_34
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1455
+        width: 14
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac30be0fe5e1bf20800000000000000
+      internalID: 3436780805566774435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_35
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 551
+        width: 302
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ec3956e7db3930800000000000000
+      internalID: 4124127268127434733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_36
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1587
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2acfe534103af40800000000000000
+      internalID: 5738431739068195502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_37
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1314
+        width: 99
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ed1f0f0ea50fa40800000000000000
+      internalID: 5399915875378781764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_38
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1494
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b1e1e4a529b6960800000000000000
+      internalID: 7596326113045781265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_39
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1450
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11627801a061e140800000000000000
+      internalID: 4747181726972928283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_40
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1495
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad8fcd282a1d2fb0800000000000000
+      internalID: -4671048478643745363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_41
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1495
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97febc8e64f219b0800000000000000
+      internalID: -5110753871467186278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_42
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1281
+        width: 122
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490b047f013f6c20800000000000000
+      internalID: 3201831802524862787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_43
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea4523e76ca4d60800000000000000
+      internalID: 7875325143723323072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_44
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1259
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ef3ec75d2ab6aa0800000000000000
+      internalID: -6166656226946711988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_45
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 819
+        width: 133
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5455bf8bbfc06b0800000000000000
+      internalID: -5328607487176915522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_46
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1362
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc61e82e827702990800000000000000
+      internalID: -7412793969168476468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_47
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 551
+        width: 186
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d132f968aa372970800000000000000
+      internalID: 8730010897687392728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_48
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1288
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d69f1053c0365b0800000000000000
+      internalID: -5376440108344316652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_49
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1286
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9face745dbad76260800000000000000
+      internalID: 7090876645019405049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_50
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1253
+        width: 8
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e4936c79c3ba7c0800000000000000
+      internalID: -4059084016580997517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_51
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 551
+        width: 184
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d51156f6c06210800000000000000
+      internalID: 1324277051671565259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_52
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1245
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac892f5024a87e8f0800000000000000
+      internalID: -511288016511002422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_53
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 551
+        width: 197
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2855f83f51d110800000000000000
+      internalID: 1283912067016306189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_54
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1130
+        width: 17
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93caee18873aa60800000000000000
+      internalID: 7684117888674576801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_55
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1185
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5547a068b94e0efa0800000000000000
+      internalID: -5773363365669079979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_56
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 922
+        width: 186
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daeab42d3e33a420800000000000000
+      internalID: 2640022238899399383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_57
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8dcb89a41e189b0800000000000000
+      internalID: -5079531194190866237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_58
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1130
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40056d3e9096f1720800000000000000
+      internalID: 2819087382955315204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_59
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1128
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef7984bac75c24d0800000000000000
+      internalID: -3158052710569639957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_60
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1120
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d442e95534291ac0800000000000000
+      internalID: -3884033392070474540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_61
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 688
+        width: 194
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbeccac233620f50800000000000000
+      internalID: 6846143453358517190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_62
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 913
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ecbd38652f56e80800000000000000
+      internalID: -8185870294282678640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_63
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 908
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9777754969404c60800000000000000
+      internalID: 7800315271091550111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_64
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 718
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee2b32964116a40800000000000000
+      internalID: 5359587473350651599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_65
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 848
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6403a27c223acf0800000000000000
+      internalID: -242311716146231616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_66
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 870
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23c0bdaa97a75f0800000000000000
+      internalID: -758159812532096326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_67
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 861
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b364b78d20463d0800000000000000
+      internalID: -3214441105231299706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_68
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 847
+        width: 11
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e82dab31fdb800800000000000000
+      internalID: 629924761512239557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_69
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 796
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11db04895aa1e1c0800000000000000
+      internalID: -4476109253185384165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_70
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 783
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea74bde0fcf70b00800000000000000
+      internalID: 794881970964560611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 552
+        width: 118
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d646ab1881c6260800000000000000
+      internalID: 7092070458658680067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_72
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 793
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f559d5830db7dc0800000000000000
+      internalID: -3640086933292097779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_73
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 808
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09c091e21a8d2f0800000000000000
+      internalID: -947830502200667912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_74
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 747
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc6f5cbe05cc560800000000000000
+      internalID: 7335326866648517501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_75
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 727
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92553856ec78b0760800000000000000
+      internalID: 7425177731186513193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_76
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 678
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6be000c5300c250800000000000000
+      internalID: 5962769600311375609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_77
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 691
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e6270d9bb886250800000000000000
+      internalID: 5938149738870369825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_78
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 552
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f1f4c0c7a06ad0800000000000000
+      internalID: -2710982529297288100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 541
+        width: 186
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2942cfeaee49520800000000000000
+      internalID: 2708051711278486214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_80
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 582
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594a5462eb7d0da0800000000000000
+      internalID: -5976984918174316193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_81
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 566
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941bbad5083cffb0800000000000000
+      internalID: -4612750320538545004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 541
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffef93f7579d220800000000000000
+      internalID: 2511167456530071307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_83
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 543
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c3a03bf4ad9e50800000000000000
+      internalID: 6817786809668585897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_84
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 544
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51e99e127af4230800000000000000
+      internalID: 3625299989151749538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_85
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 545
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09e24aa1cbc2d90800000000000000
+      internalID: -7121110088169910057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerVerte_86
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 544
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574412d51b55602a0800000000000000
+      internalID: -6771630769444928395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerGreen
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 545
+        width: 1536
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a19a8e88d65d45a6b1146c8a90d7f
+      internalID: -1321241586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d97887233a5cc1b49ad61052ccb9bc89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DonnerGreen: -1321241586
+      DonnerVerte_0: 7333071353891472098
+      DonnerVerte_1: -3327875245243086884
+      DonnerVerte_10: 2373545383957095292
+      DonnerVerte_11: -7658759720851012341
+      DonnerVerte_12: -7197976151706351022
+      DonnerVerte_13: 3604508449687548217
+      DonnerVerte_14: -2063412230025662867
+      DonnerVerte_15: -3857924525461019330
+      DonnerVerte_16: 5787259402830171123
+      DonnerVerte_17: -8795371179212594059
+      DonnerVerte_18: 7751646219479878177
+      DonnerVerte_19: -6640032056749650625
+      DonnerVerte_2: 5328819066550715528
+      DonnerVerte_20: -6759409506366586754
+      DonnerVerte_21: -206708796578708910
+      DonnerVerte_22: 8935437231532893402
+      DonnerVerte_23: 3072076435927211903
+      DonnerVerte_24: -2368714426083791367
+      DonnerVerte_25: 8160127466115549834
+      DonnerVerte_26: -1805250337364404388
+      DonnerVerte_27: -3675986273867055312
+      DonnerVerte_28: -4324301158637074565
+      DonnerVerte_29: 870049965582759939
+      DonnerVerte_3: -1743861199578566415
+      DonnerVerte_30: -22891955577258843
+      DonnerVerte_31: -4202906157396583069
+      DonnerVerte_32: -1948358424622752129
+      DonnerVerte_33: 8271275440539046734
+      DonnerVerte_34: 3436780805566774435
+      DonnerVerte_35: 4124127268127434733
+      DonnerVerte_36: 5738431739068195502
+      DonnerVerte_37: 5399915875378781764
+      DonnerVerte_38: 7596326113045781265
+      DonnerVerte_39: 4747181726972928283
+      DonnerVerte_4: 5186165178114060393
+      DonnerVerte_40: -4671048478643745363
+      DonnerVerte_41: -5110753871467186278
+      DonnerVerte_42: 3201831802524862787
+      DonnerVerte_43: 7875325143723323072
+      DonnerVerte_44: -6166656226946711988
+      DonnerVerte_45: -5328607487176915522
+      DonnerVerte_46: -7412793969168476468
+      DonnerVerte_47: 8730010897687392728
+      DonnerVerte_48: -5376440108344316652
+      DonnerVerte_49: 7090876645019405049
+      DonnerVerte_5: -6511979642498512970
+      DonnerVerte_50: -4059084016580997517
+      DonnerVerte_51: 1324277051671565259
+      DonnerVerte_52: -511288016511002422
+      DonnerVerte_53: 1283912067016306189
+      DonnerVerte_54: 7684117888674576801
+      DonnerVerte_55: -5773363365669079979
+      DonnerVerte_56: 2640022238899399383
+      DonnerVerte_57: -5079531194190866237
+      DonnerVerte_58: 2819087382955315204
+      DonnerVerte_59: -3158052710569639957
+      DonnerVerte_6: 1807245231645672086
+      DonnerVerte_60: -3884033392070474540
+      DonnerVerte_61: 6846143453358517190
+      DonnerVerte_62: -8185870294282678640
+      DonnerVerte_63: 7800315271091550111
+      DonnerVerte_64: 5359587473350651599
+      DonnerVerte_65: -242311716146231616
+      DonnerVerte_66: -758159812532096326
+      DonnerVerte_67: -3214441105231299706
+      DonnerVerte_68: 629924761512239557
+      DonnerVerte_69: -4476109253185384165
+      DonnerVerte_7: -4179599724899873626
+      DonnerVerte_70: 794881970964560611
+      DonnerVerte_71: 7092070458658680067
+      DonnerVerte_72: -3640086933292097779
+      DonnerVerte_73: -947830502200667912
+      DonnerVerte_74: 7335326866648517501
+      DonnerVerte_75: 7425177731186513193
+      DonnerVerte_76: 5962769600311375609
+      DonnerVerte_77: 5938149738870369825
+      DonnerVerte_78: -2710982529297288100
+      DonnerVerte_79: 2708051711278486214
+      DonnerVerte_8: -229775351912206757
+      DonnerVerte_80: -5976984918174316193
+      DonnerVerte_81: -4612750320538545004
+      DonnerVerte_82: 2511167456530071307
+      DonnerVerte_83: 6817786809668585897
+      DonnerVerte_84: 3625299989151749538
+      DonnerVerte_85: -7121110088169910057
+      DonnerVerte_86: -6771630769444928395
+      DonnerVerte_9: -590325208021176760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: 36e8b5f762ca8a143830dbee6079aca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8014625441773096578
+    second: DonnerBleue_0
+  - first:
+      213: -8487945206829781535
+    second: DonnerBleue_1
+  - first:
+      213: -3027163232080024942
+    second: DonnerBleue_2
+  - first:
+      213: 8023409453910919489
+    second: DonnerBleue_3
+  - first:
+      213: -6064398461486507209
+    second: DonnerBleue_4
+  - first:
+      213: -2213900398763775632
+    second: DonnerBleue_5
+  - first:
+      213: 4449617099909836365
+    second: DonnerBleue_6
+  - first:
+      213: -3849389928937515242
+    second: DonnerBleue_7
+  - first:
+      213: -5214788835263934412
+    second: DonnerBleue_8
+  - first:
+      213: -8636667216438083412
+    second: DonnerBleue_9
+  - first:
+      213: 2308797131143227850
+    second: DonnerBleue_10
+  - first:
+      213: -2876801398481448554
+    second: DonnerBleue_11
+  - first:
+      213: 5404043829592179970
+    second: DonnerBleue_12
+  - first:
+      213: -8997273140714688185
+    second: DonnerBleue_13
+  - first:
+      213: 5401321308710902474
+    second: DonnerBleue_14
+  - first:
+      213: -5545644079015167654
+    second: DonnerBleue_15
+  - first:
+      213: 3945200698042575359
+    second: DonnerBleue_16
+  - first:
+      213: -3604037826272931291
+    second: DonnerBleue_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonnerBleue_0
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1499
+        width: 138
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e717e4fbf9456c090800000000000000
+      internalID: -8014625441773096578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_1
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1481
+        width: 138
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed6ee13ec2c43a80800000000000000
+      internalID: -8487945206829781535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_2
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1157
+        width: 144
+        height: 770
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2fba341b5df5d0800000000000000
+      internalID: -3027163232080024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_3
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1771
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1490fd37360e85f60800000000000000
+      internalID: 8023409453910919489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_4
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1473
+        width: 119
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bdba6dabde6dba0800000000000000
+      internalID: -6064398461486507209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_5
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 875
+        width: 140
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e69b2155a641e0800000000000000
+      internalID: -2213900398763775632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_6
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1390
+        width: 87
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e21a26d2730cd30800000000000000
+      internalID: 4449617099909836365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_7
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 997
+        width: 144
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61796bb2148349ac0800000000000000
+      internalID: -3849389928937515242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_8
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1345
+        width: 177
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4309b67fe2951a7b0800000000000000
+      internalID: -5214788835263934412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_9
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 981
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca042f8fce4642880800000000000000
+      internalID: -8636667216438083412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_10
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 652
+        width: 202
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9ab3c12ce7a0020800000000000000
+      internalID: 2308797131143227850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_11
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 520
+        width: 191
+        height: 785
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919a2abe5c8318d0800000000000000
+      internalID: -2876801398481448554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_12
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 679
+        width: 121
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205cb7d2b350ffa40800000000000000
+      internalID: 5404043829592179970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_13
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 522
+        width: 97
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741b9848fb3432380800000000000000
+      internalID: -8997273140714688185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_14
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 516
+        width: 172
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca1673ec1955fa40800000000000000
+      internalID: 5401321308710902474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_15
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 519
+        width: 99
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597d8b971ae903b0800000000000000
+      internalID: -5545644079015167654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_16
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 762
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9637ed12b20c630800000000000000
+      internalID: 3945200698042575359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBleue_17
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 516
+        width: 175
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225ee721b2ebfdc0800000000000000
+      internalID: -3604037826272931291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonnerBlue
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 511
+        width: 1572
+        height: 1404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780fce99abb6414191898e5ad03fd25
+      internalID: 963316495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc9b9e38c650f3e488bde46144da3993
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DonnerBleue_0: -8014625441773096578
+      DonnerBleue_1: -8487945206829781535
+      DonnerBleue_10: 2308797131143227850
+      DonnerBleue_11: -2876801398481448554
+      DonnerBleue_12: 5404043829592179970
+      DonnerBleue_13: -8997273140714688185
+      DonnerBleue_14: 5401321308710902474
+      DonnerBleue_15: -5545644079015167654
+      DonnerBleue_16: 3945200698042575359
+      DonnerBleue_17: -3604037826272931291
+      DonnerBleue_2: -3027163232080024942
+      DonnerBleue_3: 8023409453910919489
+      DonnerBleue_4: -6064398461486507209
+      DonnerBleue_5: -2213900398763775632
+      DonnerBleue_6: 4449617099909836365
+      DonnerBleue_7: -3849389928937515242
+      DonnerBleue_8: -5214788835263934412
+      DonnerBleue_9: -8636667216438083412
+      DonnerBlue: 963316495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

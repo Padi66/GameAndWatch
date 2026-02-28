@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: 65e79fb7e6b4dfd4187559560a995d54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 973565254834037606
+    second: DonneRouge_0
+  - first:
+      213: 8702832503310744490
+    second: DonneRouge_1
+  - first:
+      213: 6857729979357706298
+    second: DonneRouge_2
+  - first:
+      213: -1703457866935162908
+    second: DonneRouge_3
+  - first:
+      213: 6953375814678358218
+    second: DonneRouge_4
+  - first:
+      213: -5588463691376452181
+    second: DonneRouge_5
+  - first:
+      213: -5001015281881761067
+    second: DonneRouge_6
+  - first:
+      213: -3502824579859228408
+    second: DonneRouge_7
+  - first:
+      213: 8906125245281559087
+    second: DonneRouge_8
+  - first:
+      213: 5256459689344079474
+    second: DonneRouge_9
+  - first:
+      213: -8756276514989883659
+    second: DonneRouge_10
+  - first:
+      213: 5615750897218470385
+    second: DonneRouge_11
+  - first:
+      213: -5783762630152384113
+    second: DonneRouge_12
+  - first:
+      213: 4984214955683224123
+    second: DonneRouge_13
+  - first:
+      213: 4994780255892561474
+    second: DonneRouge_14
+  - first:
+      213: -8327974102139055681
+    second: DonneRouge_15
+  - first:
+      213: -6530916443333045544
+    second: DonneRouge_16
+  - first:
+      213: -7113390752908180112
+    second: DonneRouge_17
+  - first:
+      213: -8336292995423055648
+    second: DonneRouge_18
+  - first:
+      213: -4746213071129942397
+    second: DonneRouge_19
+  - first:
+      213: 2712788712370667515
+    second: DonneRouge_20
+  - first:
+      213: -5158932556689393219
+    second: DonneRouge_21
+  - first:
+      213: 7431451133364736660
+    second: DonneRouge_22
+  - first:
+      213: -4770949281017721296
+    second: DonneRouge_23
+  - first:
+      213: -5946726641485163927
+    second: DonneRouge_24
+  - first:
+      213: 8591581409883295583
+    second: DonneRouge_25
+  - first:
+      213: -2463475885491808021
+    second: DonneRouge_26
+  - first:
+      213: -8337073906883092601
+    second: DonneRouge_27
+  - first:
+      213: 4299746289232730589
+    second: DonneRouge_28
+  - first:
+      213: 1141208787557238461
+    second: DonneRouge_29
+  - first:
+      213: -6562454009512461386
+    second: DonneRouge_30
+  - first:
+      213: -6595343707510965906
+    second: DonneRouge_31
+  - first:
+      213: -2762735782227509322
+    second: DonneRouge_32
+  - first:
+      213: 5378996959642859989
+    second: DonneRouge_33
+  - first:
+      213: -3588098503328131238
+    second: DonneRouge_34
+  - first:
+      213: 8714031522724695252
+    second: DonneRouge_35
+  - first:
+      213: 7042897707563179366
+    second: DonneRouge_36
+  - first:
+      213: -5354134002935071563
+    second: DonneRouge_37
+  - first:
+      213: 8700653572859658637
+    second: DonneRouge_38
+  - first:
+      213: -1547068292604982063
+    second: DonneRouge_39
+  - first:
+      213: 4335899244096818342
+    second: DonneRouge_40
+  - first:
+      213: -2193103292398387695
+    second: DonneRouge_41
+  - first:
+      213: -4045648538247787982
+    second: DonneRouge_42
+  - first:
+      213: -5393431803630897076
+    second: DonneRouge_43
+  - first:
+      213: 5700829920681083948
+    second: DonneRouge_44
+  - first:
+      213: -344165619483387952
+    second: DonneRouge_45
+  - first:
+      213: 2318426525989723678
+    second: DonneRouge_46
+  - first:
+      213: 7676698625176933866
+    second: DonneRouge_47
+  - first:
+      213: -7771151144328516591
+    second: DonneRouge_48
+  - first:
+      213: -5413980153465040877
+    second: DonneRouge_49
+  - first:
+      213: 5677261972005299521
+    second: DonneRouge_50
+  - first:
+      213: -4707377321367169349
+    second: DonneRouge_51
+  - first:
+      213: 3849866819710258098
+    second: DonneRouge_52
+  - first:
+      213: -2872899152132750993
+    second: DonneRouge_53
+  - first:
+      213: 8821098463107850766
+    second: DonneRouge_54
+  - first:
+      213: 2807386954515395471
+    second: DonneRouge_55
+  - first:
+      213: -6399950609670066221
+    second: DonneRouge_56
+  - first:
+      213: -3682405135387361160
+    second: DonneRouge_57
+  - first:
+      213: -6294915066199068879
+    second: DonneRouge_58
+  - first:
+      213: -7209579276358330344
+    second: DonneRouge_59
+  - first:
+      213: 1462652390037552980
+    second: DonneRouge_60
+  - first:
+      213: -7582464861655815214
+    second: DonneRouge_61
+  - first:
+      213: 8734882237558219208
+    second: DonneRouge_62
+  - first:
+      213: -6124891187983921401
+    second: DonneRouge_63
+  - first:
+      213: -2699449568297806887
+    second: DonneRouge_64
+  - first:
+      213: 2531911552031783971
+    second: DonneRouge_65
+  - first:
+      213: 6054125423435532004
+    second: DonneRouge_66
+  - first:
+      213: -5818845328071820821
+    second: DonneRouge_67
+  - first:
+      213: -6093432988485986753
+    second: DonneRouge_68
+  - first:
+      213: -4656905246379143644
+    second: DonneRouge_69
+  - first:
+      213: -6225935150497774799
+    second: DonneRouge_70
+  - first:
+      213: -4416595518028700448
+    second: DonneRouge_71
+  - first:
+      213: -675598271046270309
+    second: DonneRouge_72
+  - first:
+      213: 1461928330444919835
+    second: DonneRouge_73
+  - first:
+      213: 615566966119696719
+    second: DonneRouge_74
+  - first:
+      213: -1046288148686332712
+    second: DonneRouge_75
+  - first:
+      213: 8216129832218046460
+    second: DonneRouge_76
+  - first:
+      213: 8099317133645058992
+    second: DonneRouge_77
+  - first:
+      213: -260993151906025904
+    second: DonneRouge_78
+  - first:
+      213: -3370861689786587595
+    second: DonneRouge_79
+  - first:
+      213: 3636367667577773294
+    second: DonneRouge_80
+  - first:
+      213: 2082543230561426128
+    second: DonneRouge_81
+  - first:
+      213: -5281526011636146945
+    second: DonneRouge_82
+  - first:
+      213: -1224393397521620161
+    second: DonneRouge_83
+  - first:
+      213: 2556563282031245550
+    second: DonneRouge_84
+  - first:
+      213: 1763165314943295256
+    second: DonneRouge_85
+  - first:
+      213: 9057958846492572672
+    second: DonneRouge_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonneRouge_0
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1774
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663ab0ce07cc28d00800000000000000
+      internalID: 973565254834037606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_1
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1928
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab7f8b5d0ca6c870800000000000000
+      internalID: 8702832503310744490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_2
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1623
+        width: 93
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38b929151d8b2f50800000000000000
+      internalID: 6857729979357706298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_3
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1786
+        width: 104
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72c77681a1c58e0800000000000000
+      internalID: -1703457866935162908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_4
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1985
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac822bf767a5f7060800000000000000
+      internalID: 6953375814678358218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1143
+        width: 195
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad9653b1e9c172b0800000000000000
+      internalID: -5588463691376452181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1964
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da332ff813d89ab0800000000000000
+      internalID: -5001015281881761067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1971
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809dbf67a97736fc0800000000000000
+      internalID: -3502824579859228408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_8
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1506
+        width: 146
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22652259b9e89b70800000000000000
+      internalID: 8906125245281559087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1506
+        width: 192
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276938fcc32b2f840800000000000000
+      internalID: 5256459689344079474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1957
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febee007e47b7680800000000000000
+      internalID: -8756276514989883659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_11
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 544
+        width: 141
+        height: 1426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c9cfffa72fed40800000000000000
+      internalID: 5615750897218470385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_12
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1211
+        width: 179
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8196941882fbbfa0800000000000000
+      internalID: -5783762630152384113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_13
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1951
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a10bd381d7b2540800000000000000
+      internalID: 4984214955683224123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_14
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1951
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5c93ed26015540800000000000000
+      internalID: 4994780255892561474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_15
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1696
+        width: 62
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb159577da71d6c80800000000000000
+      internalID: -8327974102139055681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_16
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1793
+        width: 13
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25069d8168d55a0800000000000000
+      internalID: -6530916443333045544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_17
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1875
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750c507cc8284d90800000000000000
+      internalID: -7113390752908180112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_18
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1793
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e05b3030b98f4c80800000000000000
+      internalID: -8336292995423055648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_19
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1855
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ebfabb50122eb0800000000000000
+      internalID: -4746213071129942397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_20
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1789
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfffa8ff5f2c5a520800000000000000
+      internalID: 2712788712370667515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_21
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1772
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9b4524c2ac768b0800000000000000
+      internalID: -5158932556689393219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_22
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1782
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49211e9ae61d12760800000000000000
+      internalID: 7431451133364736660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_23
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1744
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e888f08ee2acdb0800000000000000
+      internalID: -4770949281017721296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_24
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1341
+        width: 335
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962dced60abf87da0800000000000000
+      internalID: -5946726641485163927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_25
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1739
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f81faa5cd6b3770800000000000000
+      internalID: 8591581409883295583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_26
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1597
+        width: 64
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81584fbb9ffcdd0800000000000000
+      internalID: -2463475885491808021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_27
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1745
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1e021473cc4c80800000000000000
+      internalID: -8337073906883092601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_28
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1689
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd955021874cbab30800000000000000
+      internalID: 4299746289232730589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_29
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1317
+        width: 164
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db647ec885366df00800000000000000
+      internalID: 1141208787557238461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_30
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1677
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbfb2409da7de4a0800000000000000
+      internalID: -6562454009512461386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_31
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1637
+        width: 9
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69733677d1a874a0800000000000000
+      internalID: -6595343707510965906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_32
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1601
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7114917ac8a9d0800000000000000
+      internalID: -2762735782227509322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_33
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1598
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93b635c3906aa40800000000000000
+      internalID: 5378996959642859989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_34
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1455
+        width: 14
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57140afb63843ec0800000000000000
+      internalID: -3588098503328131238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_35
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 551
+        width: 302
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dccf8140857ee870800000000000000
+      internalID: 8714031522724695252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_36
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1587
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d57b076266db160800000000000000
+      internalID: 7042897707563179366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_37
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1314
+        width: 99
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf633ed7b42b5b0800000000000000
+      internalID: -5354134002935071563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_38
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1494
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d818804935eeeb870800000000000000
+      internalID: 8700653572859658637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_39
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1450
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8208a595b78ae0800000000000000
+      internalID: -1547068292604982063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_40
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1495
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8642d3653c2c30800000000000000
+      internalID: 4335899244096818342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_41
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1495
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebad4dc288091e0800000000000000
+      internalID: -2193103292398387695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_42
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1281
+        width: 122
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a89a7d618fad7c0800000000000000
+      internalID: -4045648538247787982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_43
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483948a95ea625b0800000000000000
+      internalID: -5393431803630897076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_44
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1259
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c244d1bcb9a6d1f40800000000000000
+      internalID: 5700829920681083948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_45
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 819
+        width: 133
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75aca4137493bf0800000000000000
+      internalID: -344165619483387952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_46
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1362
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed57f44a4bc2020800000000000000
+      internalID: 2318426525989723678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_47
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 551
+        width: 186
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae596690abc198a60800000000000000
+      internalID: 7676698625176933866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_48
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1288
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cad622533572490800000000000000
+      internalID: -7771151144328516591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_49
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1286
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31093b32cbdadd4b0800000000000000
+      internalID: -5413980153465040877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_50
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1253
+        width: 8
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a5322fafa9ce40800000000000000
+      internalID: 5677261972005299521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_51
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 551
+        width: 184
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb61e2854490caeb0800000000000000
+      internalID: -4707377321367169349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_52
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1245
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb846d99797d6530800000000000000
+      internalID: 3849866819710258098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_53
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 551
+        width: 197
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614b9141796128d0800000000000000
+      internalID: -2872899152132750993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_54
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1130
+        width: 17
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02a946e056da6a70800000000000000
+      internalID: 8821098463107850766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_55
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1185
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83b4fa9f87d5f620800000000000000
+      internalID: 2807386954515395471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_56
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 922
+        width: 186
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df229234dece27a0800000000000000
+      internalID: -6399950609670066221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_57
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87089222a0875ecc0800000000000000
+      internalID: -3682405135387361160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_58
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1130
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f23f36918f3a8a0800000000000000
+      internalID: -6294915066199068879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_59
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1128
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d4ac98dd62fb90800000000000000
+      internalID: -7209579276358330344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_60
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1120
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f701a69926c4410800000000000000
+      internalID: 1462652390037552980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_61
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 688
+        width: 194
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbaf17c16ca5c690800000000000000
+      internalID: -7582464861655815214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_62
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 913
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e68c9d19883970800000000000000
+      internalID: 8734882237558219208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_63
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 908
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f4c446ae3000ba0800000000000000
+      internalID: -6124891187983921401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_64
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 718
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d317808be0a98ad0800000000000000
+      internalID: -2699449568297806887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_65
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 848
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cff855428232320800000000000000
+      internalID: 2531911552031783971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_66
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 870
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e649891ff2940450800000000000000
+      internalID: 6054125423435532004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_67
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 861
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97651f00f4f3fa0800000000000000
+      internalID: -5818845328071820821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_68
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 847
+        width: 11
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3655aa3bf6cf6ba0800000000000000
+      internalID: -6093432988485986753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_69
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 796
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0bec0a595f5fb0800000000000000
+      internalID: -4656905246379143644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_70
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 783
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13346ff87f80999a0800000000000000
+      internalID: -6225935150497774799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 552
+        width: 118
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42157c6c915b2c0800000000000000
+      internalID: -4416595518028700448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_72
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 793
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924b63b3facf96f0800000000000000
+      internalID: -675598271046270309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_73
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 808
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14df372210d94410800000000000000
+      internalID: 1461928330444919835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_74
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 747
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49870fe4eeea8800800000000000000
+      internalID: 615566966119696719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_75
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 727
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc99d4e876da71f0800000000000000
+      internalID: -1046288148686332712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_76
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 678
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa8dd2d8e850270800000000000000
+      internalID: 8216129832218046460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_77
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 691
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b31622650e866070800000000000000
+      internalID: 8099317133645058992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_78
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 552
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee4d37c14c06cf0800000000000000
+      internalID: -260993151906025904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 541
+        width: 186
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5362c49172b4831d0800000000000000
+      internalID: -3370861689786587595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_80
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 582
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec50ba9029f67230800000000000000
+      internalID: 3636367667577773294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_81
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 566
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da120fc80ea6ec10800000000000000
+      internalID: 2082543230561426128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 541
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc117c331044b6b0800000000000000
+      internalID: -5281526011636146945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_83
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 543
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e36b21b4120fe0800000000000000
+      internalID: -1224393397521620161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_84
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 544
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8774f72ccba7320800000000000000
+      internalID: 2556563282031245550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_85
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 545
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1c752385087810800000000000000
+      internalID: 1763165314943295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_86
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 544
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cfb4b649554bd70800000000000000
+      internalID: 9057958846492572672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonneRouge_87
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 537
+        width: 1544
+        height: 1466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ab2a6bf33e5f040a3285967d1d0d82
+      internalID: 1397619808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 268164b5bd887c349be75425162fe749
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DonneRouge_0: 973565254834037606
+      DonneRouge_1: 8702832503310744490
+      DonneRouge_10: -8756276514989883659
+      DonneRouge_11: 5615750897218470385
+      DonneRouge_12: -5783762630152384113
+      DonneRouge_13: 4984214955683224123
+      DonneRouge_14: 4994780255892561474
+      DonneRouge_15: -8327974102139055681
+      DonneRouge_16: -6530916443333045544
+      DonneRouge_17: -7113390752908180112
+      DonneRouge_18: -8336292995423055648
+      DonneRouge_19: -4746213071129942397
+      DonneRouge_2: 6857729979357706298
+      DonneRouge_20: 2712788712370667515
+      DonneRouge_21: -5158932556689393219
+      DonneRouge_22: 7431451133364736660
+      DonneRouge_23: -4770949281017721296
+      DonneRouge_24: -5946726641485163927
+      DonneRouge_25: 8591581409883295583
+      DonneRouge_26: -2463475885491808021
+      DonneRouge_27: -8337073906883092601
+      DonneRouge_28: 4299746289232730589
+      DonneRouge_29: 1141208787557238461
+      DonneRouge_3: -1703457866935162908
+      DonneRouge_30: -6562454009512461386
+      DonneRouge_31: -6595343707510965906
+      DonneRouge_32: -2762735782227509322
+      DonneRouge_33: 5378996959642859989
+      DonneRouge_34: -3588098503328131238
+      DonneRouge_35: 8714031522724695252
+      DonneRouge_36: 7042897707563179366
+      DonneRouge_37: -5354134002935071563
+      DonneRouge_38: 8700653572859658637
+      DonneRouge_39: -1547068292604982063
+      DonneRouge_4: 6953375814678358218
+      DonneRouge_40: 4335899244096818342
+      DonneRouge_41: -2193103292398387695
+      DonneRouge_42: -4045648538247787982
+      DonneRouge_43: -5393431803630897076
+      DonneRouge_44: 5700829920681083948
+      DonneRouge_45: -344165619483387952
+      DonneRouge_46: 2318426525989723678
+      DonneRouge_47: 7676698625176933866
+      DonneRouge_48: -7771151144328516591
+      DonneRouge_49: -5413980153465040877
+      DonneRouge_5: -5588463691376452181
+      DonneRouge_50: 5677261972005299521
+      DonneRouge_51: -4707377321367169349
+      DonneRouge_52: 3849866819710258098
+      DonneRouge_53: -2872899152132750993
+      DonneRouge_54: 8821098463107850766
+      DonneRouge_55: 2807386954515395471
+      DonneRouge_56: -6399950609670066221
+      DonneRouge_57: -3682405135387361160
+      DonneRouge_58: -6294915066199068879
+      DonneRouge_59: -7209579276358330344
+      DonneRouge_6: -5001015281881761067
+      DonneRouge_60: 1462652390037552980
+      DonneRouge_61: -7582464861655815214
+      DonneRouge_62: 8734882237558219208
+      DonneRouge_63: -6124891187983921401
+      DonneRouge_64: -2699449568297806887
+      DonneRouge_65: 2531911552031783971
+      DonneRouge_66: 6054125423435532004
+      DonneRouge_67: -5818845328071820821
+      DonneRouge_68: -6093432988485986753
+      DonneRouge_69: -4656905246379143644
+      DonneRouge_7: -3502824579859228408
+      DonneRouge_70: -6225935150497774799
+      DonneRouge_71: -4416595518028700448
+      DonneRouge_72: -675598271046270309
+      DonneRouge_73: 1461928330444919835
+      DonneRouge_74: 615566966119696719
+      DonneRouge_75: -1046288148686332712
+      DonneRouge_76: 8216129832218046460
+      DonneRouge_77: 8099317133645058992
+      DonneRouge_78: -260993151906025904
+      DonneRouge_79: -3370861689786587595
+      DonneRouge_8: 8906125245281559087
+      DonneRouge_80: 3636367667577773294
+      DonneRouge_81: 2082543230561426128
+      DonneRouge_82: -5281526011636146945
+      DonneRouge_83: -1224393397521620161
+      DonneRouge_84: 2556563282031245550
+      DonneRouge_85: 1763165314943295256
+      DonneRouge_86: 9057958846492572672
+      DonneRouge_87: 1397619808
+      DonneRouge_9: 5256459689344079474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
