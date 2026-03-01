@@ -13,6 +13,11 @@ Au fur et à mesure que la partie progresse, la difficulté augmente : la vitess
 
 La musique et le visuel apportent une touche plus moderne tout en conservant l’inspiration Game & Watch. La bande-son s’inspire du style 8-bit de l’époque, mais avec une approche plus électronique et entraînante. Elle accompagne parfaitement le gameplay et maintient le joueur sous tension. Le visuel, quant à lui, mélange tilemaps et images fixes afin de garantir une cohérence esthétique avec la narration du jeu.
 
+Le joueur peut choisir son niveau de difficulté avant de lancer le jeu afin de correspondre à chaque joueur.
+
 Le menu principal présente les trois couches que le joueur devra traverser pour hacker le système. Lorsqu’il clique sur une des couches, une fenêtre s’ouvre et lui demande d’entrer le mot de passe. Pour les phases de test, le code de la première couche (la plus extérieure) est déjà inscrit sur un post-it laissé par le hacker avant l’arrivée du joueur : 1234.
 
 Concernant la narration (provisoire), le joueur pourra choisir d’incarner un hacker « chevalier blanc » ou « chevalier noir ». Son objectif sera donc différent selon son choix, mais la manière d’y parvenir restera la même : résoudre les différents mini-jeux afin de pirater les couches qui protègent le noyau central contenant les données que le hacker souhaite récupérer.
+
+En ce qui concerne les inputs mobiles, l’UI a été réfléchie afin que chaque bouton soit accessible au joueur. Dans le premier mini-jeu, le joueur peut se déplacer en effectuant des swipes (glissements) au lieu d’appuyer sur des boutons.
+Enfin, le jeu se lance par défaut en mode paysage et empêche le passage en mode portrait.
