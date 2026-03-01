@@ -21,10 +21,13 @@ public class DificultyManager : MonoBehaviour
     private float _difficultyTimer = 0f;
     private int _difficultyLevel = 0;
 
+
+    private float _speedMultiplier = 1f;
+    private float _spawnMultiplier = 1f;
+
     private void Start()
     {
-        _timeManager.SetTimeStep(_initialTimeStep);
-        _spawner.SpawnDelayDuration = _initialSpawnDelay;
+        ApplyDifficulty();
     }
 
     private void Update()
@@ -41,13 +44,44 @@ public class DificultyManager : MonoBehaviour
     private void IncreaseDifficulty()
     {
         _difficultyLevel++;
+        ApplyDifficulty();
+    }
 
-        float newTimeStep = _initialTimeStep - (_timeStepDecreaseAmount * _difficultyLevel);
-        _timeManager.SetTimeStep(newTimeStep);
+    private void ApplyDifficulty()
+    {
 
-        int newSpawnDelay = _initialSpawnDelay - (_difficultyLevel / 2);
-        _spawner.SpawnDelayDuration = newSpawnDelay;
+        float autoTimeStep = Mathf.Max(_initialTimeStep - (_timeStepDecreaseAmount * _difficultyLevel), _minTimeStep);
+        int autoSpawnDelay = Mathf.Max(_initialSpawnDelay - (_difficultyLevel / 2), _minSpawnDelay);
 
-        Debug.Log($"Niveau de difficulté: {_difficultyLevel} | TimeStep: {_timeManager.CurrentTimeStep:F2}s | SpawnDelay: {_spawner.SpawnDelayDuration}");
+ 
+        float finalTimeStep = autoTimeStep / _speedMultiplier;
+        int finalSpawnDelay = Mathf.RoundToInt(autoSpawnDelay / _spawnMultiplier);
+
+
+        _timeManager.SetTimeStep(finalTimeStep);
+        _spawner.SpawnDelayDuration = finalSpawnDelay;
+
+        Debug.Log($"Lvl: {_difficultyLevel} | TimeStep: {finalTimeStep:F2} | SpawnDelay: {finalSpawnDelay}");
+    }
+
+    public void SetEasy()
+    {
+        _speedMultiplier = 0.8f;
+        _spawnMultiplier = 0.8f;
+        ApplyDifficulty();
+    }
+
+    public void SetNormal()
+    {
+        _speedMultiplier = 1f;
+        _spawnMultiplier = 1f;
+        ApplyDifficulty();
+    }
+
+    public void SetHard()
+    {
+        _speedMultiplier = 1.5f;
+        _spawnMultiplier = 1.5f;
+        ApplyDifficulty();
     }
 }
