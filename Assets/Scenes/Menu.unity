@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.65949106, y: -9.891113}
+  m_AnchoredPosition: {x: -0.65948486, y: -9.891113}
   m_SizeDelta: {x: 1.3189821, y: 1557.065}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &431679734
@@ -635,7 +635,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PasswordButton
   manager: {fileID: 1696747421}
-  password: 1409
+  password: 1548
   sceneName: Jeu2
 --- !u!1 &617307980
 GameObject:
